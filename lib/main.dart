@@ -32,7 +32,7 @@ class Atraccion extends StatelessWidget {
         ],
       ),
       body: const Center(
-      ),
+      )
     );
   }
 }
